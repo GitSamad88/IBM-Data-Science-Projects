@@ -1,6 +1,6 @@
-                                                            Build a Dashboard Application with Plotly Dash
-								    in this lab, we will be building a Plotly Dash application for users to perform interactive visual analytics 
-							                                            	on SpaceX launch data in real-time.
+                                                            #Build a Dashboard Application with Plotly Dash
+	                                       #in this lab, we will be building a Plotly Dash application for users 
+		                              #to perform interactive visual analyt on SpaceX launch data in real-time.
 #import necessery laibreries
 import dash
 import pandas as pd
